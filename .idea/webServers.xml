@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="55c79dcc-781e-4c22-8c39-c914c530d4fc" name="WSL" url="http://localhost/PHP/TP3/TP3-PHP-LEMONNIER.php">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</project>
